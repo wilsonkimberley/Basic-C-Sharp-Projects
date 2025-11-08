@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8A11A753-3ED2-4F58-9F21-11B821B3E100}|Default">
+  <MonoDevelop.Ide.ItemProperties.IncomeComparisonApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IncomeComparisonApp/Program.cs">
+    <Files>
+      <File FileName="IncomeComparisonApp/Program.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IncomeComparisonApp" expanded="True">
+            <Node name="IncomeComparisonApp">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
