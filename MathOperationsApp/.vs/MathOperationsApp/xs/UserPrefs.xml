@@ -1,16 +1,15 @@
-﻿<Properties StartupConfiguration="{5ED2C8D4-E0E7-4CEA-BB13-24868E850910}|Default">
-  <MonoDevelop.Ide.ItemProperties.AcmeAccountingSystem PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{43BCF0E1-040D-4987-8F27-F8CBBB6D660A}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AcmeAccountingSystem/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MathOperationsApp/Program.cs">
     <Files>
-      <File FileName="AcmeAccountingSystem/Program.cs" Line="13" Column="2" />
+      <File FileName="MathOperationsApp/Program.cs" Line="1" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AcmeAccountingSystem" expanded="True">
-            <Node name="AcmeAccountingSystem">
+          <Node name="MathOperationsApp" expanded="True">
+            <Node name="MathOperationsApp">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,6 +18,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MathOperationsApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

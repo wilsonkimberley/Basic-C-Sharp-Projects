@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net7.0/MathOperationsApp
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net7.0/MathOperationsApp.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net7.0/MathOperationsApp.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net7.0/MathOperationsApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/bin/Debug/net7.0/MathOperationsApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/refint/MathOperationsApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/MathOperationsApp.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/MathOperationsApp/MathOperationsApp/obj/Debug/net7.0/ref/MathOperationsApp.dll

@@ -1,16 +1,15 @@
-﻿<Properties StartupConfiguration="{5ED2C8D4-E0E7-4CEA-BB13-24868E850910}|Default">
-  <MonoDevelop.Ide.ItemProperties.AcmeAccountingSystem PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{D40A223E-8A4A-4B97-8290-4EC861EED8EF}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AcmeAccountingSystem/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DailyReport/Program.cs">
     <Files>
-      <File FileName="AcmeAccountingSystem/Program.cs" Line="13" Column="2" />
+      <File FileName="DailyReport/Program.cs" Line="19" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AcmeAccountingSystem" expanded="True">
-            <Node name="AcmeAccountingSystem">
+          <Node name="DailyReport" expanded="True">
+            <Node name="DailyReport">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DailyReport PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

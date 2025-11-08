@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/bin/Debug/net7.0/DailyReport
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/bin/Debug/net7.0/DailyReport.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/bin/Debug/net7.0/DailyReport.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/bin/Debug/net7.0/DailyReport.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/bin/Debug/net7.0/DailyReport.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/refint/DailyReport.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/DailyReport.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/DailyReport/DailyReport/obj/Debug/net7.0/ref/DailyReport.dll
