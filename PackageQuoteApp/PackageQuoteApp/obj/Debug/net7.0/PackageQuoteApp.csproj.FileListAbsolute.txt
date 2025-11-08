@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/bin/Debug/net7.0/PackageQuoteApp
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/bin/Debug/net7.0/PackageQuoteApp.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/bin/Debug/net7.0/PackageQuoteApp.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/bin/Debug/net7.0/PackageQuoteApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/bin/Debug/net7.0/PackageQuoteApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/refint/PackageQuoteApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/PackageQuoteApp.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/PackageQuoteApp/PackageQuoteApp/obj/Debug/net7.0/ref/PackageQuoteApp.dll
