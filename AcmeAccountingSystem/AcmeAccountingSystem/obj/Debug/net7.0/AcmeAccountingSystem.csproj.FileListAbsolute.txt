@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/bin/Debug/net7.0/AcmeAccountingSystem
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/bin/Debug/net7.0/AcmeAccountingSystem.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/bin/Debug/net7.0/AcmeAccountingSystem.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/bin/Debug/net7.0/AcmeAccountingSystem.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/bin/Debug/net7.0/AcmeAccountingSystem.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/refint/AcmeAccountingSystem.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/AcmeAccountingSystem.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AcmeAccountingSystem/AcmeAccountingSystem/obj/Debug/net7.0/ref/AcmeAccountingSystem.dll

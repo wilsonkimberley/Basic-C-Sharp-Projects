@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/net7.0/myConsoleProject.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/net7.0/myConsoleProject.cs.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/net7.0/myConsoleProject.cs.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/net7.0/myConsoleProject.cs.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/bin/Debug/net7.0/myConsoleProject.cs.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/refint/myConsoleProject.cs.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/myConsoleProject.cs.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/myConsoleProject.cs/myConsoleProject.cs/obj/Debug/net7.0/ref/myConsoleProject.cs.dll
