@@ -10,7 +10,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AcmeAccountingSystem" expanded="True">
-            <Node name="AcmeAccountingSystem">
+            <Node name="AcmeAccountingSystem" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

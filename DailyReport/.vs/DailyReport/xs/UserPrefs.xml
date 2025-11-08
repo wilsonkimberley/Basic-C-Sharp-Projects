@@ -9,7 +9,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DailyReport" expanded="True">
-            <Node name="DailyReport">
+            <Node name="DailyReport" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

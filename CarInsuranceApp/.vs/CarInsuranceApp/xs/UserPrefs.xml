@@ -1,16 +1,16 @@
-﻿<Properties StartupConfiguration="{8A11A753-3ED2-4F58-9F21-11B821B3E100}|Default">
-  <MonoDevelop.Ide.ItemProperties.IncomeComparisonApp PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{D3E76938-38F8-49A8-B39A-A4AAA6371A7D}|Default">
+  <MonoDevelop.Ide.ItemProperties.CarInsuranceApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IncomeComparisonApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarInsuranceApp/Program.cs">
     <Files>
-      <File FileName="IncomeComparisonApp/Program.cs" Line="39" Column="1" />
+      <File FileName="CarInsuranceApp/Program.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="IncomeComparisonApp" expanded="True">
-            <Node name="IncomeComparisonApp" expanded="True">
+          <Node name="CarInsuranceApp" expanded="True">
+            <Node name="CarInsuranceApp">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
