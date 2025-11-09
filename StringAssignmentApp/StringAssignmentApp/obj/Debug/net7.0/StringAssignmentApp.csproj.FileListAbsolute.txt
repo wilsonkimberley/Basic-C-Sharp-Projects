@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/bin/Debug/net7.0/StringAssignmentApp
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/bin/Debug/net7.0/StringAssignmentApp.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/bin/Debug/net7.0/StringAssignmentApp.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/bin/Debug/net7.0/StringAssignmentApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/bin/Debug/net7.0/StringAssignmentApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/refint/StringAssignmentApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/StringAssignmentApp.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/StringAssignmentApp/StringAssignmentApp/obj/Debug/net7.0/ref/StringAssignmentApp.dll

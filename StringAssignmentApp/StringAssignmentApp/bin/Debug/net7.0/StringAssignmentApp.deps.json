@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "StringAssignmentApp/1.0.0": {
+        "runtime": {
+          "StringAssignmentApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringAssignmentApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
