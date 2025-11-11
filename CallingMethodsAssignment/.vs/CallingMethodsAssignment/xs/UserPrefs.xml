@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0C56E74B-1CA3-4B22-B42C-2C2E0113E954}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CallingMethodsAssignment/Program.cs">
+    <Files>
+      <File FileName="CallingMethodsAssignment/Program.cs" Line="28" Column="39" />
+      <File FileName="CallingMethodsAssignment/MathOperations.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CallingMethodsAssignment" expanded="True">
+            <Node name="CallingMethodsAssignment">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CallingMethodsAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
