@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/bin/Debug/net7.0/VoidMethodAssignment
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/bin/Debug/net7.0/VoidMethodAssignment.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/bin/Debug/net7.0/VoidMethodAssignment.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/bin/Debug/net7.0/VoidMethodAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/bin/Debug/net7.0/VoidMethodAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/refint/VoidMethodAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/VoidMethodAssignment.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/VoidMethodAssignment/VoidMethodAssignment/obj/Debug/net7.0/ref/VoidMethodAssignment.dll

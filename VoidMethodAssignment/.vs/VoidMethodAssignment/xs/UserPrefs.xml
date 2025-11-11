@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5E95983A-DE2B-4667-9456-BF9E586F566E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VoidMethodAssignment/Program.cs">
+    <Files>
+      <File FileName="VoidMethodAssignment/Program.cs" Line="23" Column="1" />
+      <File FileName="VoidMethodAssignment/MathOperations.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VoidMethodAssignment" expanded="True">
+            <Node name="VoidMethodAssignment">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VoidMethodAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
