@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F8FEC4F0-A15A-46F4-ADD0-689E5AF4D559}|Default">
+  <MonoDevelop.Ide.ItemProperties.OperatorsAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorsAssignment/Program.cs">
+    <Files>
+      <File FileName="OperatorsAssignment/Program.cs" Line="26" Column="1" />
+      <File FileName="OperatorsAssignment/Employee.cs" Line="34" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OperatorsAssignment" expanded="True">
+            <Node name="OperatorsAssignment">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
