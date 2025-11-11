@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/net7.0/AbstractClassAssignment
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/net7.0/AbstractClassAssignment.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/net7.0/AbstractClassAssignment.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/net7.0/AbstractClassAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/bin/Debug/net7.0/AbstractClassAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/refint/AbstractClassAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/AbstractClassAssignment.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/AbstractClassAssignment/AbstractClassAssignment/obj/Debug/net7.0/ref/AbstractClassAssignment.dll
