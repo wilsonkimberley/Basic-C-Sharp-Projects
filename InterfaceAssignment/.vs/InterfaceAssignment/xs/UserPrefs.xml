@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4FDB7473-A02E-4F40-AE19-D6A39FD311C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceAssignment/Program.cs">
+    <Files>
+      <File FileName="InterfaceAssignment/Program.cs" Line="25" Column="1" />
+      <File FileName="InterfaceAssignment/IQuittable.cs" Line="11" Column="1" />
+      <File FileName="InterfaceAssignment/Employee.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceAssignment" expanded="True">
+            <Node name="InterfaceAssignment">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InterfaceAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
