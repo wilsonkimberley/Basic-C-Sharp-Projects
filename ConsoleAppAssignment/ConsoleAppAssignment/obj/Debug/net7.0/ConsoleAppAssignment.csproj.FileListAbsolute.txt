@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net7.0/ConsoleAppAssignment
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net7.0/ConsoleAppAssignment.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net7.0/ConsoleAppAssignment.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net7.0/ConsoleAppAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/bin/Debug/net7.0/ConsoleAppAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/refint/ConsoleAppAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ConsoleAppAssignment.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppAssignment/ConsoleAppAssignment/obj/Debug/net7.0/ref/ConsoleAppAssignment.dll
