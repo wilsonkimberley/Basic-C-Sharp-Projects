@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C8F7699C-5BC8-4130-8087-3949BB84361A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OptionalParameterMethodAssignment/MathOperations.cs">
+    <Files>
+      <File FileName="OptionalParameterMethodAssignment/Program.cs" Line="16" Column="13" />
+      <File FileName="OptionalParameterMethodAssignment/MathOperations.cs" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OptionalParameterMethodAssignment" expanded="True">
+            <Node name="OptionalParameterMethodAssignment">
+              <Node name="MathOperations.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OptionalParameterMethodAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
