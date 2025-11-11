@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/net7.0/ConsoleAppStringsAndIntegers
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/net7.0/ConsoleAppStringsAndIntegers.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/net7.0/ConsoleAppStringsAndIntegers.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/net7.0/ConsoleAppStringsAndIntegers.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/bin/Debug/net7.0/ConsoleAppStringsAndIntegers.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/refint/ConsoleAppStringsAndIntegers.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ConsoleAppStringsAndIntegers.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConsoleAppStringsAndIntegers/ConsoleAppStringsAndIntegers/obj/Debug/net7.0/ref/ConsoleAppStringsAndIntegers.dll
