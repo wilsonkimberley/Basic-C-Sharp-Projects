@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/bin/Debug/net7.0/IndexLookupApp
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/bin/Debug/net7.0/IndexLookupApp.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/bin/Debug/net7.0/IndexLookupApp.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/bin/Debug/net7.0/IndexLookupApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/bin/Debug/net7.0/IndexLookupApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/refint/IndexLookupApp.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/IndexLookupApp.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/IndexLookupApp/IndexLookupApp/obj/Debug/net7.0/ref/IndexLookupApp.dll
