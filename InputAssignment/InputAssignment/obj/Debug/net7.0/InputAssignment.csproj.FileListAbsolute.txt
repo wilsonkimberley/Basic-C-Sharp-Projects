@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/bin/Debug/net7.0/InputAssignment
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/bin/Debug/net7.0/InputAssignment.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/bin/Debug/net7.0/InputAssignment.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/bin/Debug/net7.0/InputAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/bin/Debug/net7.0/InputAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/refint/InputAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/InputAssignment.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/InputAssignment/InputAssignment/obj/Debug/net7.0/ref/InputAssignment.dll

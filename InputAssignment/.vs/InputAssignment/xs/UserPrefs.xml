@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{D3E76938-38F8-49A8-B39A-A4AAA6371A7D}|Default">
+﻿<Properties StartupConfiguration="{DCE2327D-C0C2-4A09-A5B3-14CF34D01240}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CarInsuranceApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.InputAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CarInsuranceApp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InputAssignment/Program.cs">
     <Files>
-      <File FileName="CarInsuranceApp/Program.cs" Line="18" Column="1" />
+      <File FileName="InputAssignment/Program.cs" Line="33" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CarInsuranceApp" expanded="True">
-            <Node name="CarInsuranceApp" expanded="True">
+          <Node name="InputAssignment" expanded="True">
+            <Node name="InputAssignment">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

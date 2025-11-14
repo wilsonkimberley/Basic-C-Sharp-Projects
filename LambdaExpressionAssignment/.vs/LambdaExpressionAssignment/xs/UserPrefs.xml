@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{DB374663-AC23-4C52-B298-EE1D9CC2658D}|Default">
-  <MonoDevelop.Ide.ItemProperties.LambdaExpressionAssignment FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LambdaExpressionAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LambdaExpressionAssignment/Employee.cs">
+    <Files>
+      <File FileName="LambdaExpressionAssignment/Program.cs" Line="61" Column="21" />
+      <File FileName="LambdaExpressionAssignment/Employee.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LambdaExpressionAssignment" expanded="True">
+            <Node name="LambdaExpressionAssignment">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
