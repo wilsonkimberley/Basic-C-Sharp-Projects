@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/net7.0/LambdaExpressionAssignment
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/net7.0/LambdaExpressionAssignment.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/net7.0/LambdaExpressionAssignment.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/net7.0/LambdaExpressionAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/net7.0/LambdaExpressionAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/refint/LambdaExpressionAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/LambdaExpressionAssignment.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/net7.0/ref/LambdaExpressionAssignment.dll
