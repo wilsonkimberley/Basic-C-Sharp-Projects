@@ -1,0 +1,15 @@
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/net7.0/ConstructorAssignment
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/net7.0/ConstructorAssignment.deps.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/net7.0/ConstructorAssignment.runtimeconfig.json
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/net7.0/ConstructorAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/bin/Debug/net7.0/ConstructorAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.csproj.AssemblyReference.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.AssemblyInfoInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.AssemblyInfo.cs
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.csproj.CoreCompileInputs.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/refint/ConstructorAssignment.dll
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.pdb
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ConstructorAssignment.genruntimeconfig.cache
+/Users/kimberleywilson/Documents/GitHub/Basic-C-Sharp-Projects/ConstructorAssignment/ConstructorAssignment/obj/Debug/net7.0/ref/ConstructorAssignment.dll
