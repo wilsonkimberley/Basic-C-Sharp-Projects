@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D3AEC16C-DD7B-44B6-A1DA-667E233F0673}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentsMVC/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="StudentsMVC/Views/Home/About.cshtml" />
+      <File FileName="StudentsMVC/Views/Home/Contact.cshtml" />
+      <File FileName="StudentsMVC/Views/Home/Instructors.cshtml" />
+      <File FileName="StudentsMVC/Controllers/HomeController.cs" />
+      <File FileName="StudentsMVC/Views/Shared/_Layout.cshtml" Line="33" Column="20" />
+      <File FileName="StudentsMVC/Program.cs" />
+      <File FileName="StudentsMVC/Views/Home/Instructor.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentsMVC" expanded="True">
+            <Node name="StudentsMVC" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StudentsMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

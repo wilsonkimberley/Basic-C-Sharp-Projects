@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|c:\\users\\irbcro\\source\\repos\\webapplication1\\webapplication1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|C:\\Users\\irbcro\\source\\repos\\WebApplication1\\webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4785BF96-B28B-4818-82BA-6EEA44476F92}|WebApplication1\\StudentsMVC1.csproj|solutionrelative:webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75d09b86-471e-4b30-8720-362d13ad0a45}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T20:48:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T20:47:39.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Instructor.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T19:58:51.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cshtml",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Instructor.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Instructor.cshtml",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Instructor.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Instructor.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T19:46:16.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructors.cshtml",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Instructors.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Instructors.cshtml",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Instructors.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Instructors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T19:43:52.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T19:31:56.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T19:31:55.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T19:31:54.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\irbcro\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T19:31:46.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

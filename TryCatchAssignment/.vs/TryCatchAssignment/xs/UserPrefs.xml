@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{5E1C1C98-5F63-4B8B-8ED7-F2C41D9B9685}|Default">
-  <MonoDevelop.Ide.ItemProperties.TryCatchAssignment FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TryCatchAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TryCatchAssignment/Program.cs">
+    <Files>
+      <File FileName="TryCatchAssignment/Program.cs" Line="48" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TryCatchAssignment" expanded="True">
+            <Node name="TryCatchAssignment">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
